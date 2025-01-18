@@ -16,7 +16,7 @@ Este projeto foi o meu **primeiro contato com HTML, CSS e JS**, onde pude aprend
 ## Página Inicial
 
 <p align="center">
-  <img src="https://github.com/Imayagmb/Modavo/assets/129901845/815b01be-6d91-450d-8c2c-83a794ffbee6" alt="Página Inicial" width="70%">
+  <img src="https://github.com/Imayagmb/Modavo/assets/129901845/815b01be-6d91-450d-8c2c-83a794ffbee6" alt="Página Inicial" width="50%">
 </p>
 
 ---

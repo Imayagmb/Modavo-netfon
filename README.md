@@ -5,8 +5,6 @@ amplo conjunto de serviços, como Internet Dedicada, Banda Larga e Wi-fi.
 Neste projeto, o desenvolvedor tem a oportunidade de elaborar um Site (apenas front-end) 
 com um  conjunto de páginas interconectadas de modo a trazer várias informações desejadas pela Empresa.
 
-***Navegação:*** https://imayagmb.github.io/Modavo-Projeto/index.html
-
 ---
 
 ## Primeiro Contato
@@ -51,4 +49,4 @@ Este projeto foi o meu **primeiro contato com HTML, CSS e JS**, onde pude aprend
 
 Você pode visualizar o projeto clicando no link abaixo:
 
-[Modavo](https://imayagmb.github.io/Modavo-Projeto/index.html)
+[Modavo](https://modavo-netfon.vercel.app/)
